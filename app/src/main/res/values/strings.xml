@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CricSummit</string>
+
+    <!-- Challenge 1 -->
+    <string name="challenge1_title">Predict Outcome</string>
+    <string name="bowl_prompt">Select Bowl</string>
+    <string name="shot_prompt">Select Shot</string>
+    <string name="timing_prompt">Select Timing</string>
+    <string-array name="bowl_array">
+        <item>Bouncer</item>
+        <item>Outswinger</item>
+        <item>Yorker</item>
+        <item>Off Break</item>
+        <item>Inswinger</item>
+        <item>Leg Cutter</item>
+        <item>Slower Ball</item>
+        <item>Pace</item>
+        <item>Off Cutter</item>
+        <item>Doosra</item>
+    </string-array>
+    <string-array name="shot_array">
+        <item>Straight</item>
+        <item>Flick</item>
+        <item>Long On</item>
+        <item>SquareCut</item>
+        <item>Sweep</item>
+        <item>CoverDrive</item>
+        <item>Pull</item>
+        <item>Scoop</item>
+        <item>LegLance</item>
+        <item>UpperCut</item>
+    </string-array>
+    <string-array name="timing_array">
+        <item>Early</item>
+        <item>Good</item>
+        <item>Late</item>
+        <item>Perfect</item>
+    </string-array>
+
+    <!-- Challenge 3 -->
+    <string name="challenge3_title">Super Over</string>
+</resources>
